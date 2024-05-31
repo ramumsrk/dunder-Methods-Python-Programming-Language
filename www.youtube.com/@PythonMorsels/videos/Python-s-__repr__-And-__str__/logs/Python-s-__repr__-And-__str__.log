@@ -1,0 +1,12 @@
+2024-05-31 14:59:36.1717147776 | root | DEBUG | __name__='point'
+2024-05-31 14:59:36.1717147776 | root | DEBUG | First point instance: <point.point.Point object at 0x7fe49c5b4cb0>
+2024-05-31 15:05:23.1717148123 | root | DEBUG | __name__='point'
+2024-05-31 15:05:23.1717148123 | root | DEBUG | First point instance: (1, 2)
+2024-05-31 15:10:45.1717148445 | root | DEBUG | __name__='point'
+2024-05-31 15:10:45.1717148445 | root | DEBUG | First point instance: (1, 2)
+2024-05-31 15:17:43.1717148863 | root | DEBUG | __name__='point'
+2024-05-31 15:17:43.1717148863 | root | DEBUG | First point instance: first_point_instance=Point(1, 2)
+2024-05-31 15:17:43.1717148863 | root | DEBUG | (1, 2)
+2024-05-31 15:17:43.1717148863 | root | DEBUG | Point(1, 2)
+2024-05-31 15:17:43.1717148863 | root | DEBUG | (1, 2)
+2024-05-31 15:17:43.1717148863 | root | DEBUG | Point(1, 2)
